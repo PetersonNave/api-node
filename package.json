@@ -1,0 +1,18 @@
+{
+  "name": "api-curso",
+  "version": "1.0.0",
+  "description": "Api feita para por em prática os exercícios do curso de Node ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "run",
+    "start": "node server.js"
+  },
+  "author": "Peterson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
